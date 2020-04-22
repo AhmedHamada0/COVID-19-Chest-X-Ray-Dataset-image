@@ -1,5 +1,5 @@
 import os
-path = 'C:/Users/Ahmed Hamada/Downloads/Compressed/Covid19_Learnng-master/data/training/Normal'
+path = 'C:/Users/Ahmed Hamada/Downloads/Compressed/Covid19_Learnng-master/data/test/pred'
 
 i=144
 
